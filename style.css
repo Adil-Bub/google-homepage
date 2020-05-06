@@ -1,0 +1,156 @@
+body{
+	margin: 0;
+	padding: 0;  
+  	text-align: center; 
+}
+      
+
+.header{font-size: 13px;
+	float: right;
+	}
+
+.bell {
+  	height: 24px;
+  	vertical-align: middle;
+  	position: static;
+}
+.header a {
+  	margin: 10px;
+	color: #000;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+.header button {
+  	margin: 10px;
+	color: #000;
+	text-decoration: none;
+	font-family: sans-serif;
+  
+}
+footer a{
+  	font-family: sans-serif;
+  	text-decoration: none;
+  	color: #5f6368;
+}
+
+.header button{
+  	background-color: #4484f1;
+	padding: 10px;
+	margin-right: 25px;
+	margin-top: 12px;
+	height: 2%;
+  	width: 75px;
+	color: #fff;
+	border-radius: 5px;
+	font-weight: bold;
+  	border-style: solid;
+  	font-size: 14px;
+	display: block:
+	text-align: center;
+}
+.logo img{
+	width: 272px;
+	height: 90px;
+	margin-top: 13%;
+	margin-left: 21%;
+	padding-bottom: 22px;
+ }
+
+.home div{
+	margin-top: 15px;
+}
+a:hover{
+	color: #808080;
+}
+.search-wrapper{  
+	width: 600px;
+    	margin: 0 auto;
+    	left:0px;    	
+    	height: 47px;
+      	display: block;
+      	position: relative;
+}
+.search{	
+      	width: 598px;
+     	border: 1px solid #d9d9d9;
+    	font-size: 17px;
+    	border-radius: 55px;
+    	height: 44px;
+    	position: static;
+      	vertical-align: middle;
+}
+
+
+.search input {
+    	width: 510px;
+      	border: none;
+      	margin-top: 2px;
+     	font-size: 17px;
+    	height: 38px;
+      }
+.right {
+      	position: absolute;
+      	top: 0; 
+      	right: 0;
+      	padding-right: 22px;
+      	width: 14.5px;
+	height: 20.5px;
+      	padding-top: 12px;
+}
+.left{
+  	position: absolute;
+  	top: 15px;
+  	left: 15px;
+  	width: 22px;  
+}
+.button  {
+	text-align: center;
+	padding-left: 0;
+}
+
+.button button{
+	background-color: #f5f5f5;
+        border-style: solid;
+    	border-radius: 5px;
+    	color: #666;
+    	font-size: 14px;
+    	font-weight: 400;
+   	line-height: 0px;
+    	margin: 25px 4px;
+    	padding: 0 19px;
+    	display: inline-block;
+    	cursor: pointer;
+    	height: 36px;
+    	min-width: 54px;
+}
+
+.button button:hover{
+	background-color:#f8f8f8;
+	border: 1px solid #c6c6c6;
+        box-shadow:0 1px 1px #E5E5E5;
+        color:#333;
+}
+footer  {
+	  position: fixed;
+  	background: #f2f2f2;
+  	border-top: solid 2px #e4e4e4;
+  	bottom: 0;
+  	padding-bottom: 0;
+  	width: 100%;
+  	}
+
+footer ul li {
+  	display: inline;
+  	color: #666666;
+  	font-size: 14px;
+  	padding: 13px;
+}
+
+footer ul {
+  	float: left;
+  	padding: 1px;
+  }
+
+.footer-right {
+  	float: right;
+}

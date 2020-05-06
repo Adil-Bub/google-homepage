@@ -10,4 +10,4 @@ Take as much of help as you can from youtube, google, or any forum that you can 
 
 And I have basically cloned the homepage of google and bypassed the search query such that it would actually make a google search and hence you can perforn normal searches to open the same results as you would on google.com.
 
-Special thanks to my brother Saad, for extensively helping me out with this one.
+Special thanks to my brother Saad(https://github.com/Cyborg2672), for extensively helping me out with this one.

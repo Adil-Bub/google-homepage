@@ -156,3 +156,6 @@ footer ul {
 .footer-right {
   	float: right;
 }
+input:focus {
+  outline: none;
+}

@@ -43,7 +43,7 @@ footer a{
 	color: #fff;
 	border-radius: 5px;
 	font-weight: bold;
-  	border-style: solid;
+  	border-style: none;
   	font-size: 14px;
 	display: block:
 	text-align: center;
@@ -112,7 +112,7 @@ a:hover{
 
 .button button{
 	background-color: #f5f5f5;
-        border-style: solid;
+        border-style: none;
     	border-radius: 5px;
     	color: #666;
     	font-size: 14px;
